@@ -2,22 +2,25 @@
 
 # Images
 
-
+<p align="center">
 <img src="./img/homeGarden5000.jpg"
-     alt="homeGarden5000"
-     style="align=center"/>
+     alt="Markdown Monster icon"/>
+</p>
 
+<p align="center">
 <img src="./img/info.jpg"
-     alt="info"
-     style="margin-right: 10px;" />
+     alt="Markdown Monster icon"/>
+</p>
 
+<p align="center">
 <img src="./img/wifiManager.png"
-     alt="wifiManager"
-     style="float: left; margin-right: 10px;" />
+     alt="Markdown Monster icon"/>
+ </p>
 
+<p align="center">
 <img src="./img/GUI.png"
-     alt="GUI"
-     style="margin-right: 8px;" />
+     alt="Markdown Monster icon"/>
+</p>
 
 # Description du projet
 
@@ -44,15 +47,15 @@ Nous avons décidé que Raphaël s’occuperais de la programmation de la statio
 <br>
 
 # Diagram de classes
-
+<p align="center">
 <img src="./img/diagramEmetteur.png"
-     alt="diagramEmetteur"
-     style="float: center;" />
+     alt="diagramEmetteur"/>
+</p>
 
+<p align="center">
 <img src="./img/diagramEcran.png"
-     alt="diagramEcran"
-     style="margin-right: 10px;" />
-
+     alt="diagramEcran"/>
+</p>
 
 
 
