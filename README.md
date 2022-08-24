@@ -5,7 +5,7 @@
 
 <img src="./img/homeGarden5000.jpg"
      alt="homeGarden5000"
-     />
+     style="float: left; margin-right: 10px;"/>
 
 <img src="./img/info.jpg"
      alt="info"
