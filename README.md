@@ -26,12 +26,12 @@ Nous avons décidé que Raphaël s’occuperais de la programmation de la statio
 
 # Diagram de classes
 
-<img src="./img/diagramemetteur.png"
-     alt="Markdown Monster icon"
+<img src="./img/diagramEmetteur.png"
+     alt="diagramEmetteur"
      style="float: center;" />
 
 <img src="./img/diagramEcran.png"
-     alt="Markdown Monster icon"
+     alt="diagramEcran"
      style="margin-right: 10px;" />
 
 
@@ -39,19 +39,19 @@ Nous avons décidé que Raphaël s’occuperais de la programmation de la statio
 
 
 <img src="./img/homeGarden5000.jpg"
-     alt="Markdown Monster icon"
+     alt="homeGarden5000"
      style="float: left; margin-right: 10px;" />
 
 <img src="./img/info.jpg"
-     alt="Markdown Monster icon"
+     alt="info"
      style="margin-right: 10px;" />
 
 <img src="./img/wifiManager.png"
-     alt="Markdown Monster icon"
+     alt="wifiManager"
      style="float: left; margin-right: 10px;" />
 
 <img src="./img/GUI.png"
-     alt="Markdown Monster icon"
+     alt="GUI"
      style="margin-right: 8px;" />
 
 
