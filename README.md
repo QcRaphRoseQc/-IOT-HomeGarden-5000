@@ -14,12 +14,12 @@ Nous avons décidé que Raphaël s’occuperais de la programmation de la statio
 
 # Schéma technique
 
-<img src="./img/esp32bme.png"
-     alt="Markdown Monster icon"
+<img src="./img/ESP32BME.png"
+     alt="ESP32BME"
      style="float: left; margin-right: 10px;" />
 
-<img src="./img/esp32ili9488.png"
-     alt="Markdown Monster icon"
+<img src="./img/ESP32ILI9488.png"
+     alt="ESP32ILI9488"
      style="margin-right: 10px;" />
 
 <br>
