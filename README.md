@@ -13,15 +13,15 @@ Nous avons décidé que Raphaël s’occuperais de la programmation de la statio
 
 
 # Schéma technique
-
+<p align="center">
 <img src="./img/ESP32BME.png"
-     alt="ESP32BME"
-     style="float: left; margin-right: 10px;" />
-
+     alt="ESP32BME"/>
+ </p>    
+     
+<p align="center">
 <img src="./img/ESP32ILI9488.png"
-     alt="ESP32ILI9488"
-     style="margin-right: 10px;" />
-
+     alt="ESP32ILI9488"/>
+</p>
 <br>
 
 # Diagram de classes
