@@ -1,27 +1,5 @@
 # Station météo
 
-# Images
-
-<p align="center">
-<img src="./img/homeGarden5000.jpg"
-     alt="Markdown Monster icon"/>
-</p>
-
-<p align="center">
-<img src="./img/info.jpg"
-     alt="Markdown Monster icon"/>
-</p>
-
-<p align="center">
-<img src="./img/wifiManager.png"
-     alt="Markdown Monster icon"/>
- </p>
-
-<p align="center">
-<img src="./img/GUI.png"
-     alt="Markdown Monster icon"/>
-</p>
-
 # Description du projet
 
 Avec un senseur BME280, on récupère la température, l'humidité, la pression atmosphérique, et on envoie les informations vers Home Assistant un logiciel de domotique avec MQTT(PUB/SUB).
@@ -57,6 +35,28 @@ Nous avons décidé que Raphaël s’occuperais de la programmation de la statio
      alt="diagramEcran"/>
 </p>
 
+
+# Images
+
+<p align="center">
+<img src="./img/homeGarden5000.jpg"
+     alt="Markdown Monster icon"/>
+</p>
+
+<p align="center">
+<img src="./img/info.jpg"
+     alt="Markdown Monster icon"/>
+</p>
+
+<p align="center">
+<img src="./img/wifiManager.png"
+     alt="Markdown Monster icon"/>
+ </p>
+
+<p align="center">
+<img src="./img/GUI.png"
+     alt="Markdown Monster icon"/>
+</p>
 
 
 # DEMO
