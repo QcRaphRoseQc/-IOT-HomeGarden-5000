@@ -24,16 +24,6 @@ Nous avons décidé que Raphaël s’occuperais de la programmation de la statio
 </p>
 <br>
 
-# Diagram de classes
-<p align="center">
-<img src="./img/diagramEmetteur.png"
-     alt="diagramEmetteur"/>
-</p>
-
-<p align="center">
-<img src="./img/diagramEcran.png"
-     alt="diagramEcran"/>
-</p>
 
 
 # Images
